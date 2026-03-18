@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+mlxtend
+nltk
+joblib
+fastapi
+uvicorn
+streamlit
+matplotlib
+shap
+python-multipart

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+mlflow.db
+mlruns/
+*.sqlite
+*.log
+.streamlit/secrets.toml
+
+# Heavy artifacts (exclude)
+artifacts/bert/
+artifacts/cnn/
+artifacts/sequence/
