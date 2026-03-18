@@ -11,3 +11,6 @@ streamlit
 matplotlib
 shap
 python-multipart
+sentence-transformers
+transformers
+torch
